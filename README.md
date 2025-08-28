@@ -1,16 +1,38 @@
 # quran_app
 
-A new Flutter project.
+"تطبيق قرآن كريم باستخدام Flutter مع تشغيل التلاوات والبحث والتفسير."
+# 📖 Quran App
 
-## Getting Started
+تطبيق لقراءة القرآن الكريم باستخدام Flutter.  
+🚧 **المشروع تحت التطوير (Work in Progress)** 🚧
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 التقنيات المستخدمة
+- **Flutter** (لتطوير واجهات المستخدم)
+- **Dart** (لغة البرمجة)
+- سيتم إضافة **API** لجلب السور والتلاوات.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✅ المميزات المخطط لها
+- عرض جميع سور القرآن الكريم.
+- إمكانية البحث عن السور.
+- تشغيل التلاوات الصوتية.
+- اختيار القارئ المفضل.
+- عرض التفسير لكل سورة.
+- وضع ليلي (Dark Mode).
+
+---
+
+## الحالة الحالية
+المشروع في المرحلة الأولى: **إعداد الواجهة الأساسية وربط الـ API قريبًا**.
+
+---
+
+## 🔮 المزايا القادمة
+- تحميل التلاوات للاستخدام بدون إنترنت.
+- إضافة المفضلة (Favorite).
+- إشعارات التذكير بالورد اليومي.
+
+---
